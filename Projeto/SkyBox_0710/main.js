@@ -16,8 +16,8 @@ function main() {
     'cube_left.png', // esquerda
     'cube_up.png', // cima
     'cube_down.png', // baixo
-    'cube_front.png', // frente
-    'cube_back.png'  // trás
+    'cube_back.png',  // trás
+    'cube_front.png' // frente
   ]);
   scene.background = skybox;
 
